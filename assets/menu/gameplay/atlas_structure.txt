@@ -1,0 +1,11 @@
+compression=9.0
+rows=256
+open.png#0 0 64 64
+pause_menu.png#65 0 64 64
+plus.png#130 0 64 64
+open_low.png#195 0 7 7
+pause_menu_low.png#203 0 7 7
+plus_low.png#211 0 7 7
+open_lowest.png#219 0 3 3
+pause_menu_lowest.png#223 0 3 3
+plus_lowest.png#227 0 3 3

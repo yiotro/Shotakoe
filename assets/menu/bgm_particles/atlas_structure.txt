@@ -1,0 +1,26 @@
+compression=16.0
+rows=256
+black_circle.png#0 0 32 32
+blue.png#33 0 16 16
+cyan.png#50 0 16 16
+green.png#67 0 16 16
+orange.png#84 0 16 16
+purple.png#101 0 16 16
+scarlet.png#118 0 16 16
+yellow.png#135 0 16 16
+blue_low.png#152 0 4 4
+cyan_low.png#157 0 4 4
+green_low.png#162 0 4 4
+orange_low.png#167 0 4 4
+purple_low.png#172 0 4 4
+scarlet_low.png#177 0 4 4
+yellow_low.png#182 0 4 4
+black_circle_low.png#187 0 2 2
+blue_lowest.png#190 0 2 2
+cyan_lowest.png#193 0 2 2
+green_lowest.png#196 0 2 2
+orange_lowest.png#199 0 2 2
+purple_lowest.png#202 0 2 2
+scarlet_lowest.png#205 0 2 2
+yellow_lowest.png#208 0 2 2
+black_circle_lowest.png#211 0 1 1
