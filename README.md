@@ -1,0 +1,2 @@
+# Shotakoe
+Simple mobile game
